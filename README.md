@@ -1,1 +1,1 @@
-# xtrabackup
+# addon-resizer
